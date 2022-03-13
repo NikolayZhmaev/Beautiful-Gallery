@@ -1,6 +1,6 @@
 # Beautiful Miami Gallery
 
-<img src="images/slider2.gif"  width="1362" height="500" />
+<img src="images/slider2.gif"  width="1362" height="450" />
 
 en
 
